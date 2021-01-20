@@ -2,12 +2,11 @@
 
 # Sign Up, Sign In Rest Api
 
-<p align="center">
-    ![Mongo](https://img.shields.io/badge/DB-MongoDB-yellow)
-    ![node](https://aleen42.github.io/badges/src/node.svg)
-    ![javascript](https://aleen42.github.io/badges/src/javascript.svg)
-    ![npm](https://img.shields.io/badge/npm-v6.14.11-blue)
-</p>
+![Mongo](https://img.shields.io/badge/DB-MongoDB-yellow)
+![node](https://aleen42.github.io/badges/src/node.svg)
+![javascript](https://aleen42.github.io/badges/src/javascript.svg)
+![npm](https://img.shields.io/badge/npm-v6.14.11-blue)
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
